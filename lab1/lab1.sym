@@ -1,0 +1,12 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	BLOOP             3004
+//	LOOP              3008
+//	POS               3010
+//	PRINT             3013
+//	LETTER            3016
+//	NUM               3020
+//	STOP              3029
+
